@@ -23,23 +23,20 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#home">Home</a>
+              <a class="nav-link active" aria-current="page" href="http://localhost/ITE311-TUDAL/">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#about">About</a>
+              <a class="nav-link" href="http://localhost/ITE311-TUDAL/about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#services">Services</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#contact">Contact</a>
+              <a class="nav-link" href="http://localhost/ITE311-TUDAL/contact">Contact</a>
             </li>
           </ul>
         </div>
       </div>
     </nav>
 
-    <!-- Main Content -->
+    <!-- Main Content 
     <div class="container mt-5">
       <div id="home" class="mb-5">
         <h1>Welcome to My Website</h1>
@@ -60,8 +57,10 @@
         <h2>Contact Us</h2>
         <p>Get in touch with us for more information.</p>
       </div>
-    </div>
+    </div>-->
 
     <script src="js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
-  </body>
+    <h1>Home</h1>
+    <p>Hello! Welcome to my home page</p>
+</body>
 </html>
